@@ -1,0 +1,14 @@
+ Volume in drive C is Windows7
+ Volume Serial Number is 0E14-43EE
+
+ Directory of C:\Users\212390273\Desktop\Javaproject
+
+01/30/2018  10:12 PM    <DIR>          .
+01/30/2018  10:12 PM    <DIR>          ..
+01/30/2018  10:07 PM               669 hello.class
+01/30/2018  03:21 PM               156 hello.java
+01/30/2018  10:00 PM               465 index.html
+01/30/2018  10:00 PM               516 readme.txt
+01/30/2018  10:12 PM                 0 test.txt
+               5 File(s)          1,806 bytes
+               2 Dir(s)  308,470,874,112 bytes free
