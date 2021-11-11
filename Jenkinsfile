@@ -9,11 +9,7 @@ pipeline {
   agent any
   stages {
     stage('Build') {
-    steps {
-      script {
-        sh 'ls -ltr'
-      }
-    }  
+        sh 'ls -ltr'  
     }  
   }
 }
