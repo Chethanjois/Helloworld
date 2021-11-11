@@ -11,7 +11,7 @@ pipeline {
     stage('Build') {
     steps {
       script {
-        sh 'echo "Helloworld"'
+        sh 'ls -ltr'
       }
     }  
     }  
