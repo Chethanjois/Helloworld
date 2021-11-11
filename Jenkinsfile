@@ -1,3 +1,3 @@
 #!groovy
-@Library('sharedPipelinelibrary@master') _
+@Library('chethanPipelineLibrary@master') _
 sampletest {}
