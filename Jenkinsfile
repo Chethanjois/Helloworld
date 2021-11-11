@@ -1,11 +1,3 @@
-pipeline{
-    agent any
-      stages {
-          stage('Build')
-          {
-              sh 'echo "Hello World"'
-          }
-
-      }
-
-}
+#!groovy
+@Library('sharedPipelinelibrary@master') _
+sampletest {}
